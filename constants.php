@@ -9,7 +9,7 @@
 
 date_default_timezone_set('Asia/Manila');
 
-define('APP_NAME', 'Chukwu Framework');
+define('APP_NAME', 'Phil711');
 define('APP_EMAIL', 'sheldonsenseng@gmail.com');
 define('APP_MOD_DEFAULT', 'home');
 define('APP_TPL_DEFAULT', 'main.tpl');
